@@ -20,4 +20,4 @@ Depends: ${misc:Depends},
          ${ruby:Depends},
          ${shlibs:Depends}
 Description: Faraday adapter for Net::HTTP
- Faraday adapter for Net::HTTP
+ This gem is a Faraday adapter for the Net::HTTP library
