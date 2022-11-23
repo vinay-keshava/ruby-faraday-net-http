@@ -1,5 +1,5 @@
-ruby-faraday-net-http (3.0.2-1) UNRELEASED; urgency=medium
+ruby-faraday-net-http (3.0.2-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #1024704)
 
  -- Vinay Keshava <vinaykeshava@disroot.org>  Wed, 23 Nov 2022 19:14:09 +0530
