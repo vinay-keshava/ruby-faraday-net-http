@@ -4,13 +4,12 @@ Upstream-Contact: ["janvanderpas@gmail.com"]
 Source: https://github.com/lostisland/faraday-net_http
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
-License: Expat (FIXME)
+Copyright: 2020 Jan van der Pas <janvanderpas@gmail.com>
+License: Expat
 
 Files: debian/*
 Copyright: 2022 Vinay Keshava <vinaykeshava@disroot.org>
-License: Expat (FIXME)
+License: Expat
 Comment: The Debian packaging is licensed under the same terms as the source.
 
 License: Expat
